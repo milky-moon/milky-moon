@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-- 🔭 PhD student in AI for Biomedical Innovation
+🔭 PhD student interested in AI Drug Discovery
 - 🌱 Disscution and collaboration welcomed!
 
 
